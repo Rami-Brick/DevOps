@@ -54,6 +54,8 @@ public class User implements Serializable {
 		this.dateNaissance = dateNaissance;
 		this.role = role;
 	}
+	
+	//First commit
 
 
 	@Override
